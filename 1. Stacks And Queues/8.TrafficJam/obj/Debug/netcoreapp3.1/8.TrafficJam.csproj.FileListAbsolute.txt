@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.exe
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.deps.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.genruntimeconfig.cache
