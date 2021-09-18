@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\bin\Debug\netcoreapp3.1\5.WorkingWithQueues.exe
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\bin\Debug\netcoreapp3.1\5.WorkingWithQueues.deps.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\bin\Debug\netcoreapp3.1\5.WorkingWithQueues.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\bin\Debug\netcoreapp3.1\5.WorkingWithQueues.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\bin\Debug\netcoreapp3.1\5.WorkingWithQueues.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\bin\Debug\netcoreapp3.1\5.WorkingWithQueues.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\1. Stacks-And-Queues\5.WorkingWithQueues\obj\Debug\netcoreapp3.1\5.WorkingWithQueues.genruntimeconfig.cache
