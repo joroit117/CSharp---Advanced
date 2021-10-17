@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\bin\Debug\netcoreapp3.1\5.FashionBoutique.exe
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\bin\Debug\netcoreapp3.1\5.FashionBoutique.deps.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\bin\Debug\netcoreapp3.1\5.FashionBoutique.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\bin\Debug\netcoreapp3.1\5.FashionBoutique.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\bin\Debug\netcoreapp3.1\5.FashionBoutique.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\bin\Debug\netcoreapp3.1\5.FashionBoutique.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\5.FashionBoutique\obj\Debug\netcoreapp3.1\5.FashionBoutique.genruntimeconfig.cache
