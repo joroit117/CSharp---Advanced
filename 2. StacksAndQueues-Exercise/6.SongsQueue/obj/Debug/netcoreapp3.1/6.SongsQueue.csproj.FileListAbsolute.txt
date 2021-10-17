@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\bin\Debug\netcoreapp3.1\6.SongsQueue.exe
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\bin\Debug\netcoreapp3.1\6.SongsQueue.deps.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\bin\Debug\netcoreapp3.1\6.SongsQueue.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\bin\Debug\netcoreapp3.1\6.SongsQueue.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\bin\Debug\netcoreapp3.1\6.SongsQueue.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\bin\Debug\netcoreapp3.1\6.SongsQueue.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\6.SongsQueue\obj\Debug\netcoreapp3.1\6.SongsQueue.genruntimeconfig.cache
