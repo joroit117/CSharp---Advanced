@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\bin\Debug\netcoreapp3.1\4.SymbolinMatrix.exe
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\bin\Debug\netcoreapp3.1\4.SymbolinMatrix.deps.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\bin\Debug\netcoreapp3.1\4.SymbolinMatrix.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\bin\Debug\netcoreapp3.1\4.SymbolinMatrix.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\bin\Debug\netcoreapp3.1\4.SymbolinMatrix.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\bin\Debug\netcoreapp3.1\4.SymbolinMatrix.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\3. MultidimensionalArrays\4.SymbolinMatrix\obj\Debug\netcoreapp3.1\4.SymbolinMatrix.genruntimeconfig.cache
