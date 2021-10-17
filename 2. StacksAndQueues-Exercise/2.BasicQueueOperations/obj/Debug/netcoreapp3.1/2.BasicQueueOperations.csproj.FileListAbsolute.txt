@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\bin\Debug\netcoreapp3.1\2.BasicQueueOperations.exe
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\bin\Debug\netcoreapp3.1\2.BasicQueueOperations.deps.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\bin\Debug\netcoreapp3.1\2.BasicQueueOperations.runtimeconfig.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\bin\Debug\netcoreapp3.1\2.BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\bin\Debug\netcoreapp3.1\2.BasicQueueOperations.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\bin\Debug\netcoreapp3.1\2.BasicQueueOperations.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.AssemblyInfo.cs
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.dll
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.pdb
+C:\Users\georg\source\repos\Softuni - C# Advanced\2. StacksAndQueues-Exercise\2.BasicQueueOperations\obj\Debug\netcoreapp3.1\2.BasicQueueOperations.genruntimeconfig.cache
