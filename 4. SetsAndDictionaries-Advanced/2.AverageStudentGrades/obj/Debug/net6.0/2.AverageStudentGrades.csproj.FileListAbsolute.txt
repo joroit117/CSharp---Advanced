@@ -1,0 +1,14 @@
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\bin\Debug\net6.0\2.AverageStudentGrades.exe
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\bin\Debug\net6.0\2.AverageStudentGrades.deps.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\bin\Debug\net6.0\2.AverageStudentGrades.runtimeconfig.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\bin\Debug\net6.0\2.AverageStudentGrades.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\bin\Debug\net6.0\ref\2.AverageStudentGrades.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\bin\Debug\net6.0\2.AverageStudentGrades.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.AssemblyInfo.cs
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\ref\2.AverageStudentGrades.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\2.AverageStudentGrades\obj\Debug\net6.0\2.AverageStudentGrades.genruntimeconfig.cache

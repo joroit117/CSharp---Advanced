@@ -1,0 +1,15 @@
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\bin\Debug\net6.0\1.CountSameValuesInArray.exe
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\bin\Debug\net6.0\1.CountSameValuesInArray.deps.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\bin\Debug\net6.0\1.CountSameValuesInArray.runtimeconfig.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\bin\Debug\net6.0\1.CountSameValuesInArray.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\bin\Debug\net6.0\ref\1.CountSameValuesInArray.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\bin\Debug\net6.0\1.CountSameValuesInArray.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.csproj.AssemblyReference.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.AssemblyInfo.cs
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\ref\1.CountSameValuesInArray.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\1.CountSameValuesInArray\obj\Debug\net6.0\1.CountSameValuesInArray.genruntimeconfig.cache
