@@ -1,0 +1,14 @@
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\bin\Debug\net6.0\5.RecordUniqueNames.exe
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\bin\Debug\net6.0\5.RecordUniqueNames.deps.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\bin\Debug\net6.0\5.RecordUniqueNames.runtimeconfig.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\bin\Debug\net6.0\5.RecordUniqueNames.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\bin\Debug\net6.0\ref\5.RecordUniqueNames.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\bin\Debug\net6.0\5.RecordUniqueNames.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.AssemblyInfo.cs
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\ref\5.RecordUniqueNames.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\5.RecordUniqueNames\obj\Debug\net6.0\5.RecordUniqueNames.genruntimeconfig.cache
