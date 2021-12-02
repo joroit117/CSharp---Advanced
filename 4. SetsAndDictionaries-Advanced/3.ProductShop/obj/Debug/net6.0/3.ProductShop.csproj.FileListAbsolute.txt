@@ -1,0 +1,15 @@
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\bin\Debug\net6.0\3.ProductShop.exe
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\bin\Debug\net6.0\3.ProductShop.deps.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\bin\Debug\net6.0\3.ProductShop.runtimeconfig.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\bin\Debug\net6.0\3.ProductShop.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\bin\Debug\net6.0\ref\3.ProductShop.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\bin\Debug\net6.0\3.ProductShop.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.csproj.AssemblyReference.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.AssemblyInfoInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.AssemblyInfo.cs
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.csproj.CoreCompileInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\ref\3.ProductShop.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\3.ProductShop\obj\Debug\net6.0\3.ProductShop.genruntimeconfig.cache

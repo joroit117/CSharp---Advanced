@@ -1,0 +1,15 @@
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\bin\Debug\net6.0\4.CitiesByContinentAndCountry.exe
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\bin\Debug\net6.0\4.CitiesByContinentAndCountry.deps.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\bin\Debug\net6.0\4.CitiesByContinentAndCountry.runtimeconfig.json
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\bin\Debug\net6.0\4.CitiesByContinentAndCountry.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\bin\Debug\net6.0\ref\4.CitiesByContinentAndCountry.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\bin\Debug\net6.0\4.CitiesByContinentAndCountry.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\ref\4.CitiesByContinentAndCountry.dll
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.pdb
+D:\IT\Softuni - C# Advanced\4. Sets and Dictionaries Advanced\4.CitiesByContinentAndCountry\obj\Debug\net6.0\4.CitiesByContinentAndCountry.genruntimeconfig.cache
